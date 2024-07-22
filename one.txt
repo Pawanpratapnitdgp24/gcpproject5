@@ -1,0 +1,19 @@
+Big data
+Data Science
+[][D1[C[C[D[D]+ Stopped
+ls
+
+
+
+
+
+lls
+[A[A[C[B[B[A[A[A[A[A[A[A[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C         one.txt
+[C
+
+
+
+
+[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C
+
+[A[C[C[A[C[C[A[C[C[C[C[C[C[C[1;5C[1;5[A[B[A[B[B[C[C[C[C[C[C[C[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A$ git commit -m ""[Dfirst file commited succesfully[C[C[C[C[D[D[D[D"
